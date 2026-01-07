@@ -19,12 +19,12 @@ A beautiful, modern web application for transcribing and managing audio files in
 
 ## 📸 Screenshots
 ### Main Interface
-![Main Interface](screenshots\interface.png)
+![Main Interface](screenshots/interface.png)
 *Clean, modern interface with sidebar library and transcription viewer. The text also  automatically highlights in sync with audio playback.You can also click a specific segment and the audio will start playing from that point*
 
 
 ### Upload & Processing
-![Upload Process](screenshots\upload_process.png)
+![Upload Process](screenshots/upload_process.png)
 *Simple upload with loading indicators and success confirmation*
 
 ---
@@ -157,5 +157,6 @@ japanese-transcription-app/
 - [FastAPI](https://fastapi.tiangolo.com/) for the excellent web framework
 
 ---
+
 
 ⭐ If you found this project helpful, please consider giving it a star!
